@@ -68,16 +68,13 @@ g++ "PECA Code.cpp" -o peca
 - Object-Oriented Design (Inheritance, Composition, Friend functions).
 - Fully interactive and user-friendly interface.
 - Complete input validation for all data fields.
-- No global variables or advanced data structures used (per assignment rules).
+
 
 ---
 
-## ⚠️ Disclaimer
-> **This project is for academic purposes only.** The pension and gratuity calculations are based on hypothetical formulas provided for the assignment and should not be used for real-world pension assessments.
 
----
 
 ## 👩‍💻 Author
-- **Your Name**
+- **Faiq Ahmed Shaikh**
 - **CPT113/CPT113W/CPM213 - Programming Methodology & Data Structures**
 - Universiti Sains Malaysia
